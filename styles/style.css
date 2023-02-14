@@ -60,11 +60,14 @@ nav{
     right: 0;
     width: 1200px;
     margin: auto;
-    padding: 2rem 0%;
+    padding: 2rem 2.5%;
     background-color: #fff;
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+#check {
+        display: none;
 }
 #menu{
     display: none;
